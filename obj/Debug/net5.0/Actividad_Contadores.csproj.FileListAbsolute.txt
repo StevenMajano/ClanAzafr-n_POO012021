@@ -1,0 +1,16 @@
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\bin\Debug\net5.0\Actividad_Contadores.exe
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\bin\Debug\net5.0\Actividad_Contadores.deps.json
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\bin\Debug\net5.0\Actividad_Contadores.runtimeconfig.json
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\bin\Debug\net5.0\Actividad_Contadores.runtimeconfig.dev.json
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\bin\Debug\net5.0\Actividad_Contadores.dll
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\bin\Debug\net5.0\ref\Actividad_Contadores.dll
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\bin\Debug\net5.0\Actividad_Contadores.pdb
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\Actividad_Contadores.csprojAssemblyReference.cache
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\Actividad_Contadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\Actividad_Contadores.AssemblyInfoInputs.cache
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\Actividad_Contadores.AssemblyInfo.cs
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\Actividad_Contadores.csproj.CoreCompileInputs.cache
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\Actividad_Contadores.dll
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\ref\Actividad_Contadores.dll
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\Actividad_Contadores.pdb
+C:\Users\veggeta\Documents\WorkSpace\POO\Actividades\Actividad_Contadores\obj\Debug\net5.0\Actividad_Contadores.genruntimeconfig.cache
