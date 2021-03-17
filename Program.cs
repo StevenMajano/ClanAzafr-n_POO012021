@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace example1
+namespace Git and Github
 {
     internal class Program
     {
@@ -20,7 +20,7 @@ namespace example1
 
         public static int AddNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
